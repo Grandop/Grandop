@@ -5,4 +5,4 @@
 
 💌 Caso queira falar comigo, so mandar uma mensagem!
 
-![LindekIn](https://www.linkedin.com/in/pedro-grando-299300225/)
+
