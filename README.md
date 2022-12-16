@@ -25,6 +25,7 @@ Estágiario • set de 2022 - o momento · 4 meses \
 Services: `Estágiaro Front-End Swift`
 <br/>
 <br/>
+<br/>
 
 ### 🦄 Habilidades
 <div style="width:5px; height:10px">
