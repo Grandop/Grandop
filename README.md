@@ -1,8 +1,6 @@
 
 🌎 Hi There! My name is Pedro Grando and I'm Frontend Developer and IOS Developer | Swift
 
-💼 Tools: XCode, Git e GitHub.
-
 💌 If you want talk with me, you can send me a message!
 
 <p align="left">
