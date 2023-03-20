@@ -15,8 +15,8 @@
   </a>
 </p>
 
-### Experiência de trabalho
-Abaixo, você verá minha experiência de trabalho:
+### Work experience
+Below, you will my job experience:
 
 [<img align="left" height="100px" width="100px" alt="Código Fonte TV" src="https://avatars.githubusercontent.com/u/99232245?s=200&v=4"/>](https://vortigo.digital)
 
