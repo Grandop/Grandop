@@ -1,9 +1,9 @@
 
-🌎 Olá! Meu nome é Pedro Grando eu sou desenvolvedor front-end mobile para IOS.
+🌎 Hi There! My name is Pedro Grando and I'm Frontend Developer and IOS Developer | Swift
 
-💼 Ferramentas: XCode, Git e GitHub.
+💼 Tools: XCode, Git e GitHub.
 
-💌 Caso queira falar comigo, so mandar uma mensagem!
+💌 If you want talk with me, you can send me a message!
 
 <p align="left">
   <a href="https://www.instagram.com/grando_03/" alt="Instagram">
@@ -27,7 +27,7 @@ Services: `Estágiaro Front-End Swift`
 <br/>
 <br/>
 
-### 🦄 Habilidades
+### 🦄 Skills
 <div style="width:5px; height:10px">
   <img height="22" alt="Swift" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/>
   <img height="22" alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> 
