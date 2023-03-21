@@ -20,7 +20,7 @@ Below, you will see my job experience:
 [<img align="left" height="100px" width="100px" alt="Código Fonte TV" src="https://avatars.githubusercontent.com/u/99232245?s=200&v=4"/>](https://vortigo.digital)
 
 [**Vortigo**](https://vortigo.digital) \
-Estágiario • set de 2022 - o momento · 4 meses \
+Estágiario • set de 2022 - o momento · 6 meses \
 Services: `Estágiaro Front-End Swift`
 <br/>
 <br/>
