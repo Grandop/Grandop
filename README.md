@@ -29,9 +29,7 @@ Services: `Estágiaro Front-End Swift`
 ### 🦄 Skills
 <div style="width:5px; height:10px">
   <img height="22" alt="Swift" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img height="22" alt="MVC" src="https://img.shields.io/badge/MVC-007ACC?style=for-the-badge&logo=swift&logoColor=white"/>
   <img height="22" alt="MVVM" src="https://img.shields.io/badge/MVVM-9933CC?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img height="22" alt="VIP" src="https://img.shields.io/badge/VIP-%23D00000.svg?style=for-the-badge&logo=swift&logoColor=white"/>
   <img height="22" alt="VIPER" src="https://img.shields.io/badge/VIPER-%23F7A41D.svg?style=for-the-badge&logo=swift&logoColor=white"/>
   <img height="22" alt="VIEW CODE" src="https://img.shields.io/badge/VIEW CODE-%23Clojure?style=for-the-badge&logo=swift&logoColor=white"/>
   <img height="22" alt="Storyboard" src="https://img.shields.io/badge/Storyboard-%23F7A41D.svg?style=for-the-badge&logo=swift&logoColor=white"/>
