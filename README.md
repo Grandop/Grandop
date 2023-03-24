@@ -34,9 +34,9 @@ Services: `Estágiaro Front-End Swift`
   <img height="22" alt="VIP" src="https://img.shields.io/badge/VIP-%23D00000.svg?style=for-the-badge&logo=swift&logoColor=white"/>
   <img height="22" alt="VIPER" src="https://img.shields.io/badge/VIPER-%23F7A41D.svg?style=for-the-badge&logo=swift&logoColor=white"/>
   <img height="22" alt="VIEW CODE" src="https://img.shields.io/badge/VIEW CODE-%23Clojure?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img height="22" alt="Storyboard" src="https://img.shields.io/badge/Storyboard-%23F7A41D.svg?style=for-the-badge&logo=swift&logoColor=white"/>
   <img height="22" alt="ALAMOFIRE" src="https://img.shields.io/badge/ALAMOFIRE-7D4698?style=for-the-badge&logo=swift&logoColor=white"/>
   <img height="22" alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> 
-  <img height="22" alt="Storyboard" src="https://img.shields.io/badge/Storyboard-%23F7A41D.svg?style=for-the-badge&logo=swift&logoColor=white"/>
   <img height="22" alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
   <img height="22" alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> 
   <img height="22" alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
