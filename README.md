@@ -17,11 +17,21 @@
 ### Work experience
 Below, you will see my job experience:
 
+
 [<img align="left" height="100px" width="100px" alt="Image Vortigo" src="https://avatars.githubusercontent.com/u/99232245?s=200&v=4"/>](https://vortigo.digital)
 
 [**Vortigo**](https://vortigo.digital) \
-Estágiario • set de 2022 - o momento · 6 meses \
-Services: `Estágiaro Front-End Swift`
+Estágiario • mar de 2023 - o momento · 3 meses \
+Services: `Estágiaro de desenvolvimento mobile React Native`
+<br/>
+<br/>
+<br/>
+
+[<img align="left" height="100px" width="100px" alt="Image Vortigo" src="https://avatars.githubusercontent.com/u/99232245?s=200&v=4"/>](https://vortigo.digital)
+
+[**Vortigo**](https://vortigo.digital) \
+Estágiario • set de 2022 - mar de 2023 · 6 meses \
+Services: `Estágiaro de desenvolvimento mobile IOS`
 <br/>
 <br/>
 <br/>
