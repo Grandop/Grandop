@@ -38,6 +38,10 @@ Services: `Estágiaro de desenvolvimento mobile IOS`
 
 ### 🦄 Skills
 <div style="width:5px; height:10px">
+  <img height="22" alt="ReactNative" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img height="22" alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img height="22" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img height="22" alt="StyledComponents" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
   <img height="22" alt="Swift" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/>
   <img height="22" alt="MVVM" src="https://img.shields.io/badge/MVVM-9933CC?style=for-the-badge&logo=swift&logoColor=white"/>
   <img height="22" alt="VIPER" src="https://img.shields.io/badge/VIPER-%23F7A41D.svg?style=for-the-badge&logo=swift&logoColor=white"/>
@@ -49,7 +53,6 @@ Services: `Estágiaro de desenvolvimento mobile IOS`
   <img height="22" alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> 
   <img height="22" alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
   <img height="22" alt="Swagger" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
-  <img height="22" alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/> 
   <img height="22" alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/> 
   <img height="22" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> 
 </div>
