@@ -1,6 +1,6 @@
 <img alt="image" align="right" src="https://user-images.githubusercontent.com/104664138/226382413-6d33b624-9083-43d9-8d14-9a215492c83d.png"/>
 
-🌎 Hi There! My name is Pedro Grando and I'm Frontend Developer and IOS Developer | Swift
+🌎 Hi There! My name is Pedro Grando and I'm Frontend Developer and Mobile Developer | Swift, React Native
 
 💌 If you want talk with me, you can send me a message!
 
