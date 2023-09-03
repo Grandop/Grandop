@@ -22,7 +22,7 @@ Below, you will see my job experience:
 
 [**Vortigo**](https://vortigo.digital) \
 Estágiario • mar de 2023 - o momento · 3 meses \
-Services: `Estágiaro front-end mobile React Native`
+Services: `Estágiaro React & React Native`
 <br/>
 <br/>
 <br/>
