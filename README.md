@@ -43,7 +43,6 @@ Services: `Estágiaro front-end mobile IOS`
   <img height="22" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img height="22" alt="StyledComponents" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
   <img height="22" alt="Swift" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img height="22" alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
   <img height="22" alt="MVVM" src="https://img.shields.io/badge/MVVM-9933CC?style=for-the-badge&logo=swift&logoColor=white"/>
   <img height="22" alt="VIPER" src="https://img.shields.io/badge/VIPER-%23F7A41D.svg?style=for-the-badge&logo=swift&logoColor=white"/>
   <img height="22" alt="VIEW CODE" src="https://img.shields.io/badge/VIEW CODE-%23Clojure?style=for-the-badge&logo=swift&logoColor=white"/>
