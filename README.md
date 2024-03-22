@@ -17,11 +17,19 @@
 ### Work experience
 Below, you will see my job experience:
 
+[<img align="left" height="100px" width="100px" alt="Image Vortigo" src="https://avatars.githubusercontent.com/u/99232245?s=200&v=4"/>](https://vortigo.digital)
+
+[**Vortigo**](https://vortigo.digital) \
+Desenvolvedor React • mar de 2024 - o momento · 1 mes \
+Services: `Desenvolvedor React`
+<br/>
+<br/>
+<br/>
 
 [<img align="left" height="100px" width="100px" alt="Image Vortigo" src="https://avatars.githubusercontent.com/u/99232245?s=200&v=4"/>](https://vortigo.digital)
 
 [**Vortigo**](https://vortigo.digital) \
-Estágiario • mar de 2023 - o momento · 8 meses \
+Estágiario • mar de 2023 - mar de 2024 · 1 ano 1 mes\
 Services: `Estágiaro React & React Native`
 <br/>
 <br/>
