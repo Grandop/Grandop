@@ -1,4 +1,4 @@
-<img alt="image" align="right" src="https://user-images.githubusercontent.com/104664138/226382413-6d33b624-9083-43d9-8d14-9a215492c83d.png"/>
+
 
 🌎 Hi There! My name is Pedro Grando and I'm Frontend Developer and Mobile Developer | React, React Native, TypeScript, Swift
 
@@ -14,35 +14,8 @@
   </a>
 </p>
 
-### Work experience
-Below, you will see my job experience:
 
-[<img align="left" height="100px" width="100px" alt="Image Vortigo" src="https://avatars.githubusercontent.com/u/99232245?s=200&v=4"/>](https://vortigo.digital)
 
-[**Vortigo**](https://vortigo.digital) \
-Desenvolvedor React • mar de 2024 - o momento · 1 mes \
-Services: `Desenvolvedor React`
-<br/>
-<br/>
-<br/>
-
-[<img align="left" height="100px" width="100px" alt="Image Vortigo" src="https://avatars.githubusercontent.com/u/99232245?s=200&v=4"/>](https://vortigo.digital)
-
-[**Vortigo**](https://vortigo.digital) \
-Estágiario • mar de 2023 - mar de 2024 · 1 ano 1 mes\
-Services: `Estágiaro React & React Native`
-<br/>
-<br/>
-<br/>
-
-[<img align="left" height="100px" width="100px" alt="Image Vortigo" src="https://avatars.githubusercontent.com/u/99232245?s=200&v=4"/>](https://vortigo.digital)
-
-[**Vortigo**](https://vortigo.digital) \
-Estágiario • mar de 2022 - mar de 2023 · 1 ano\
-Services: `Estágiaro front-end mobile IOS`
-<br/>
-<br/>
-<br/>
 
 ### 🦄 Skills
 <div style="width:5px; height:10px">
