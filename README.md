@@ -4,17 +4,6 @@
 
 💌 If you want talk with me, you can send me a message!
 
-<p align="left">
-  
-  
-  <a href="https://www.linkedin.com/in/pedro-grando-299300225/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/pedro-grando-   299300225/"/>
-  </a>
-</p>
-
-
-
-
 ### 🦄 Skills
 <div style="width:5px; height:10px">
   <img height="22" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
